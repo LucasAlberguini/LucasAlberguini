@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasAlberguini
+- 👋 Hi, I’m Lucas Alberguini
 - 👀 I’m interested in C language 
 - 🌱 I’m currently learning Software Engineering 
 - 💞️ I’m looking to collaborate on with the community this is my first time with Github and I need help
